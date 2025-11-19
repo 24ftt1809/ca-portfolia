@@ -1,0 +1,4 @@
+What is 10 % 80 ?
+What is 12 % 79 ?
+What is 32 % 82 ?
+What is 60 % 1 ?
